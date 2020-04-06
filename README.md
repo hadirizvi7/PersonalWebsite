@@ -8,4 +8,4 @@ What I learned:
 
 - Utilizing the Django framework in Python
 - Basic HTML sytnax and features (ex. adding hyperlinks)
-- Styling my webiste using Bootstrap and CSS
+- Styling my website using CSS/Bootstrap
